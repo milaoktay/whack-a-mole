@@ -5,5 +5,3 @@ A simple grid-based game using HTML, CSS and JavaScript. The idea of whack-a-mol
 JS topics covered - document.querySelector, textContent, forEach, addEventListener, setInterval, classList.add
 
 Tutorial video https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s
-
-Tutorial repo https://github.com/kubowania/whac-a-mole
